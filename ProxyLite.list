@@ -29,3 +29,27 @@ IP-CIDR,1.0.0.1/32,no-resolve
 IP-CIDR,185.222.222.222/32,no-resolve
 IP-CIDR,208.67.222.222/32,no-resolve
 IP-CIDR,208.67.220.220/32,no-resolve
+  # 国内
+DOMAIN-SUFFIX,dnsany.com,🎯 全球直连
+DOMAIN-SUFFIX,cmvideo.cn,🎯 全球直连
+DOMAIN-SUFFIX,chinamobile.com,🎯 全球直连
+DOMAIN-SUFFIX,mobaibox.com,🎯 全球直连
+DOMAIN-SUFFIX,gitv.tv,🎯 全球直连
+DOMAIN-SUFFIX,cctv.cn,🎯 全球直连
+DOMAIN-SUFFIX,yangshipin.cn,🎯 全球直连
+DOMAIN-SUFFIX,gcable.cn,🎯 全球直连
+IP-CIDR,183.206.0.0/15,🎯 全球直连,no-resolve
+IP-CIDR,223.5.5.5/32,🎯 全球直连,no-resolve
+IP-CIDR,27.36.0.0/14,🎯 全球直连,no-resolve
+IP-CIDR,183.238.66.0/24,🎯 全球直连,no-resolve
+  # 海外
+DOMAIN-SUFFIX,livednow.com,🌍 国外媒体
+DOMAIN-SUFFIX,orz-7.com,🌍 国外媒体
+DOMAIN-SUFFIX,4gtv.tv,🌍 国外媒体
+DOMAIN-SUFFIX,hinet.net,🌍 国外媒体
+DOMAIN-SUFFIX,ofiii.com,🌍 国外媒体
+DOMAIN-SUFFIX,googlevideo.com,🌍 国外媒体
+DOMAIN-SUFFIX,youtube.com,🌍 国外媒体
+DOMAIN-SUFFIX,mytvsuper.com,🌍 国外媒体
+DOMAIN-SUFFIX,thetvapp.to,🌍 国外媒体
+DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
