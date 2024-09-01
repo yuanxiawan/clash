@@ -10,7 +10,7 @@
 ;增强国外GFW：不支持
 
 ruleset=🎯 全球直连,https://raw.githubusercontent.com/yuanxiawan/clash/main/Direct.list
-ruleset=🚀 节点选择,https://raw.githubusercontent.com/yuanxiawan/clash/main/ProxyLite.list
+;ruleset=🚀 节点选择,https://raw.githubusercontent.com/yuanxiawan/clash/main/ProxyLite.list
 ;ruleset=🤖 AI,https://raw.githubusercontent.com/yuanxiawan/clash/main/AI.list
 ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/LocalAreaNetwork.list
 ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/UnBan.list
